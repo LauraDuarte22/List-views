@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Listviews</string>
+    <string name="logo">Logo appciclaje</string>
+    <string-array name="options">
+        <item>Tipo de reciclaje</item>
+        <item>Color de bolsas de  reciclaje</item>
+    </string-array>
+</resources>
